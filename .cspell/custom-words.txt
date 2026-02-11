@@ -74,6 +74,7 @@ renderable
 repudiable
 schemas
 sdjwt
+spellcheck
 shopify
 superfences
 vulnz
