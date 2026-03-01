@@ -1,0 +1,12 @@
+# Universal Commerce Protocol (UCP) Codeowners
+*  @Universal-Commerce-Protocol/maintainers
+
+# Infrastructure & Tooling
+/.github/                 @Universal-Commerce-Protocol/devops-maintainers
+/pyproject.toml           @Universal-Commerce-Protocol/devops-maintainers
+/.cspell.json             @Universal-Commerce-Protocol/devops-maintainers
+/.cspell/                 @Universal-Commerce-Protocol/devops-maintainers
+/.gitignore               @Universal-Commerce-Protocol/devops-maintainers
+
+# Governance
+/.github/CODEOWNERS      @Universal-Commerce-Protocol/governance-council
